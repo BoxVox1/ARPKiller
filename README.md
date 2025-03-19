@@ -28,6 +28,10 @@ chmod +x arpkiller.py
 python3 arpkiller.py
 ```
 
+### Install arpspoof
+
+https://salsa.debian.org/pkg-security-team/dsniff
+
 ---
 
 
